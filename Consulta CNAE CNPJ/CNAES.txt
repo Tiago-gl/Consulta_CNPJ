@@ -1,0 +1,299 @@
+00.00-0-00;Não informada
+01.21-1-01;Horticultura, exceto morango
+10.31-7-00;Fabricação de conservas de frutas
+10.32-5-99;Fabricação de conservas de legumes e outros vegetais, exceto palmito
+10.33-3-02;Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados
+10.91-1-02;Fabricação de produtos de padaria e confeitaria com predominância de produção própria
+10.92-9-00;Fabricação de biscoitos e bolachas
+10.93-7-01;Fabricação de produtos derivados do cacau e de chocolates
+10.93-7-02;Fabricação de frutas cristalizadas, balas e semelhantes
+10.94-5-00;Fabricação de massas alimentícias
+10.95-3-00;Fabricação de especiarias, molhos, temperos e condimentos
+10.96-1-00;Fabricação de alimentos e pratos prontos
+10.99-6-04;Fabricação de gelo comum
+13.11-1-00;Preparação e fiação de fibras de algodão
+13.12-0-00;Preparação e fiação de fibras têxteis naturais, exceto algodão
+13.40-5-99;Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário
+13.51-1-00;Fabricação de artefatos têxteis para uso doméstico
+13.54-5-00;Fabricação de tecidos especiais, inclusive artefatos
+13.59-6-00;Fabricação de outros produtos têxteis não especificados anteriormente
+14.11-8-01;Confecção de roupas íntimas
+14.11-8-02;Facção de roupas íntimas
+14.12-6-01;Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida
+14.12-6-02;Confecção, sob medida, de peças do vestuário, exceto roupas íntimas
+14.12-6-03;Facção de peças do vestuário, exceto roupas íntimas
+14.13-4-01;Confecção de roupas profissionais, exceto sob medida
+14.13-4-02;Confecção, sob medida, de roupas profissionais
+14.13-4-03;Facção de roupas profissionais
+14.14-2-00;Fabricação de acessórios do vestuário, exceto para segurança e proteção
+14.21-5-00;Fabricação de meias
+14.22-3-00;Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias
+15.21-1-00;Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material
+15.29-7-00;Fabricação de artefatos de couro não especificados anteriormente
+15.31-9-01;Fabricação de calçados de couro
+18.22-9-01;Serviços de encadernação e plastificação
+18.22-9-99;Serviços de acabamentos gráficos, exceto encadernação e plastificação
+23.19-2-00;Fabricação de artigos de vidro
+23.99-1-01;Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal
+25.39-0-01;Serviços de usinagem, tornearia e solda
+32.50-7-06;Serviços de prótese dentária
+32.50-7-07;Fabricação de artigos ópticos
+32.91-4-00;Fabricação de escovas, pincéis e vassouras
+32.99-0-06;Fabricação de velas, inclusive decorativas
+33.12-1-02;Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle
+33.12-1-04;Manutenção e reparação de equipamentos e instrumentos ópticos
+33.13-9-02;Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos
+33.14-7-01;Manutenção e reparação de máquinas motrizes Não-elétricas
+33.14-7-02;Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas
+33.1.4-7-03;Manutenção e reparação de válvulas industriais
+33.14-7-06;Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas
+33.14-7-07;Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial
+33.14-7-09;Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos Não-eletrônicos para escritório
+33.14-7-12;Manutenção e reparação de tratores agrícolas
+33.14-7-13;Manutenção e reparação de máquinas-ferramenta
+33.29-5-01;Serviços de montagem de móveis de qualquer material
+38.31-9-99;Recuperação de materiais metálicos, exceto alumínio
+38.32-7-00;Recuperação de materiais plásticos
+45.12-9-01;Representantes comerciais e agentes do comércio de veículos automotores
+45.20-0-01;Serviços de manutenção e reparação mecânica de veículos automotores
+45.20-0-02;Serviços de lanternagem ou funilaria e pintura de veículos automotores
+45.20-0-03;Serviços de manutenção e reparação elétrica de veículos automotores
+45.20-0-04;Serviços de alinhamento e balanceamento de veículos automotores
+45.20-0-05;Serviços de lavagem, lubrificação e polimento de veículos automotores
+45.20-0-06;Serviços de borracharia para veículos automotores
+45.20-0-07;Serviços de instalação, manutenção e reparação de acessórios para veículos automotores
+45.20-0-08;Serviços de capotaria
+45.30-7-03;Comércio a varejo de peças e acessórios novos para veículos automotores
+45.30-7-04;Comércio a varejo de peças e acessórios usados para veículos automotores
+45.30-7-05;Comércio a varejo de pneumáticos e câmaras-de-ar
+45.30-7-06;Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores
+45.41-2-06;Comércio a varejo de peças e acessórios novos para motocicletas e motonetas
+45.41-2-07;Comércio a varejo de peças e acessórios usados para motocicletas e motonetas
+45.42-1-01;Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios
+45.42-1-02;Comércio sob consignação de motocicletas e motonetas
+45.43-9-00;Manutenção e reparação de motocicletas e motonetas
+46.11-7-00;Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos
+46.12-5-00;Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos
+46.13-3-00;Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens
+46.14-1-00;Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves
+46.15-0-00;Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico
+46.16-8-00;Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem
+46.17-6-00;Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo
+46.18-4-01;Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria
+46.18-4-02;Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares
+46.18-4-03;Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações
+46.18-4-99;Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente
+46.19-2-00;Representantes comerciais e agentes do comércio de mercadorias em geral não especializado
+46.35-4-01;Comércio atacadista de água mineral
+46.35-4-02;Comércio atacadista de cerveja, chope e refrigerante
+46.37-1-04;Comércio atacadista de pães, bolos, biscoitos e Similares
+46.37-1-07;Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes
+46.39-7-01;Comércio atacadista de produtos alimentícios em geral
+46.41-9-01;Comércio atacadista de tecidos
+46.41-9-02;Comércio atacadista de artigos de cama, mesa e banho
+46.41-9-03;Comércio atacadista de artigos de armarinho
+46.42-7-01;Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança
+46.42-7-02;Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho
+46.43-5-01;Comércio atacadista de calçados
+46.43-5-02;Comércio atacadista de bolsas, malas e artigos de viagem
+46.47-8-01;Comércio atacadista de artigos de escritório e de papelaria
+46.47-8-02;Comércio atacadista de livros, jornais e outras publicações
+46.49-4-04;Comércio atacadista de móveis e artigos de colchoaria
+46.49-4-05;Comércio atacadista de artigos de tapeçaria; persianas e cortinas
+46.49-4-06;Comércio atacadista de lustres, luminárias e abajures
+46.49-4-07;Comércio atacadista de filmes, CDs, DVDs, fitas e discos
+46.49-4-10;Comércio atacadista de joias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas
+46.51-6-01;Comércio atacadista de equipamentos de informática
+46.51-6-02;Comércio atacadista de suprimentos para informática
+46.52-4-00;Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação
+46.86-9-01;Comércio atacadista de papel e papelão em bruto
+46.86-9-02;Comércio atacadista de embalagens
+46.87-7-01;Comércio atacadista de resíduos de papel e papelão
+46.87-7-03;Comércio atacadista de resíduos e sucatas metálicos
+46.89-3-02;Comércio atacadista de fios e fibras beneficiados
+46.91-5-00;Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios
+46.92-3-00;Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários
+47.12-1-00;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns
+47.21-1-02;Padaria e confeitaria com predominância de revenda
+47.21-1-04;Comércio varejista de doces, balas, bombons e semelhantes
+47.22-9-01;Comércio varejista de carnes - açougues
+47.23-7-00;Comércio varejista de bebidas
+47.29-6-02;Comércio varejista de mercadorias em lojas de conveniência
+47.29-6-99;Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente
+47.41-5-00;Comércio varejista de tintas e materiais para pintura
+47.42-3-00;Comércio varejista de material elétrico
+47.43-1-00;Comércio varejista de vidros
+47.44-0-01;Comércio varejista de ferragens e ferramentas
+47.44-0-03;Comércio varejista de materiais hidráulicos
+47.44-0-06;Comércio varejista de pedras para revestimento
+47.44-0-99;Comércio varejista de materiais de construção em geral
+47.51-2-01;Comércio varejista especializado de equipamentos e suprimentos de informática
+47.51-2-02;Recarga de cartuchos para equipamentos de informática
+47.52-1-00;Comércio varejista especializado de equipamentos de telefonia e comunicação
+47.53-9-00;Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo
+47.54-7-01;Comércio varejista de móveis
+47.54-7-02;Comércio varejista de artigos de colchoaria
+47.54-7-03;Comércio varejista de artigos de iluminação
+47.55-5-01;Comércio varejista de tecidos
+47.55-5-02;Comércio varejista de artigos de armarinho
+47.55-5-03;Comércio varejista de artigos de cama, mesa e banho
+47.56-3-00;Comércio varejista especializado de instrumentos musicais e acessórios
+47.57-1-00;Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação
+47.59-8-01;Comércio varejista de artigos de tapeçaria, cortinas e persianas
+47.59-8-99;Comércio varejista de outros artigos de uso doméstico não especificados anteriormente
+47.61-0-01;Comércio varejista de livros
+47.61-0-02;Comércio varejista de jornais e revistas
+47.61-0-03;Comércio varejista de artigos de papelaria
+47.62-8-00;Comércio varejista de discos, CDs, DVDs e fitas
+47.63-6-01;Comércio varejista de brinquedos e artigos recreativos
+47.63-6-02;Comércio varejista de artigos esportivos
+47.63-6-03;Comércio varejista de bicicletas e triciclos; peças e acessórios
+47.63-6-04;Comércio varejista de artigos de caça, pesca e camping
+47.63-6-05;Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios
+47.71-7-04;Comércio varejista de medicamentos veterinários
+47.72-5-00;Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal
+47.73-3-00;Comércio varejista de artigos médicos e ortopédicos
+47.74-1-00;Comércio varejista de artigos de óptica
+47.81-4-00;Comércio varejista de artigos do vestuário e acessórios
+47.82-2-01;Comércio varejista de calçados
+47.82-2-02;Comércio varejista de artigos de viagem
+47.83-1-01;Comércio varejista de artigos de joalheria
+47.83-1-02;Comércio varejista de artigos de relojoaria
+47.85-7-01;Comércio varejista de antiguidades
+47.85-7-99;Comércio varejista de outros artigos usados
+47.89-0-01;Comércio varejista de suvenires, bijuterias e artesanatos
+47.89-0-02;Comércio varejista de plantas e flores naturais
+47.89-0-03;Comércio varejista de objetos de arte
+47.89-0-04;Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação
+47.89-0-07;Comércio varejista de equipamentos para escritório
+47.89-0-08;Comércio varejista de artigos fotográficos e para filmagem
+52.32-0-00;Atividades de agenciamento marítimo
+55.90-6-01;Albergues, exceto assistenciais
+55.90-6-03;Pensões (alojamento)
+56.11-2-01;Restaurantes e Similares
+56.11-2-03;Lanchonetes, casas de chá, de sucos e Similares
+56.11-2-04;Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento
+56.11-2-05;Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento
+56.12-1-00;Serviços ambulantes de alimentação
+56.20-1-02;Serviços de alimentação para eventos e recepções - bufê
+56.20-1-04;Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+58.11-5-00;Edição de livros
+58.12-3-01;Edição de jornais diários
+58.12-3-02;Edição de jornais não diários
+58.13-1-00;Edição de revistas
+58.19-1-00;Edição de cadastros, listas e outros produtos gráficos
+59.11-1-02;Produção de filmes para publicidade
+59.12-0-01;Serviços de dublagem
+59.12-0-02;Serviços de mixagem sonora em produção audiovisual
+59.20-1-00;Atividades de gravação de som e de edição de música
+62.01-5-01;Desenvolvimento de programas de computador sob encomenda
+62.01-5-02;Web design
+62.02-3-00;Desenvolvimento e licenciamento de programas de computador customizáveis
+62.03-1-00;Desenvolvimento e licenciamento de programas de computador Não-customizáveis
+62.04-0-00;Consultoria em tecnologia da informação
+62.09-1-00;Suporte técnico, manutenção e outros serviços em tecnologia da informação
+63.11-9-00;Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet
+63.19-4-00;Portais, provedores de conteúdo e outros serviços de informação na internet
+63.91-7-00;Agências de notícias
+65.11-1-02;Planos de auxílio-funeral
+66.21-5-01;Peritos e avaliadores de seguros
+66.21-5-02;Auditoria e consultoria atuarial
+68.10-2-01;Compra e venda de imóveis próprios
+68.10-2-02;Aluguel de imóveis próprios
+68.21-8-01;Corretagem na compra e venda e avaliação de imóveis
+68.21-8-02;Corretagem no aluguel de imóveis
+68.22-6-00;Gestão e administração da propriedade imobiliária
+69.11-7-01;Serviços advocatícios
+69.11-7-02;Atividades auxiliares da justiça
+69.20-6-01;Atividades de contabilidade
+69.20-6-02;Atividades de consultoria e auditoria contábil e tributária
+70.20-4-00;Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica
+71.11-1-00;Serviços de arquitetura
+71.12-0-00;Serviços de engenharia
+71.19-7-01;Serviços de cartografia, topografia e geodésia
+71.19-7-02;Atividades de estudos geológicos
+71.19-7-03;Serviços de desenho técnico relacionados à arquitetura e engenharia
+71.19-7-99;Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente
+71.20-1-00;Testes e análises técnicas
+72.10-0-00;Pesquisa e desenvolvimento experimental em ciências físicas e naturais
+72.20-7-00;Pesquisa e desenvolvimento experimental em ciências sociais e humanas
+73.11-4-00;Agências de publicidade
+73.12-2-00;Agenciamento de espaços para publicidade, exceto em veículos de comunicação
+73.19-0-02;Promoção de vendas
+73.19-0-03;Marketing direto
+73.19-0-04;Consultoria em publicidade
+73.20-3-00;Pesquisas de mercado e de opinião pública
+74.10-2-02;Design de interiores
+74.10-2-03;Design de produto
+74.10-2-99;Atividades de design não especificadas anteriormente
+74.20-0-01;Atividades de produção de fotografias, exceto aérea e submarina
+74.20-0-03;Laboratórios fotográficos
+74.20-0-04;Filmagem de festas e eventos
+74.20-0-05;Serviços de microfilmagem
+74.90-1-01;Serviços de tradução, interpretação e Similares
+74.90-1-03;Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias
+74.90-1-04;Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários
+74.90-1-05;Agenciamento de profissionais para atividades esportivas, culturais e artísticas
+74.90-1-99;Outras atividades profissionais, científicas e técnicas não especificadas anteriormente
+75.00-1-00;Atividades veterinárias
+77.21-7-00;Aluguel de equipamentos recreativos e esportivos
+77.22-5-00;Aluguel de fitas de vídeo, DVDs e Similares
+77.23-3-00;Aluguel de objetos do vestuário, joias e acessórios
+77.29-2-01;Aluguel de aparelhos de jogos eletrônicos
+77.29-2-02;Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais
+77.29-2-03;Aluguel de material médico
+77.29-2-99;Aluguel de outros objetos pessoais e domésticos não especificados anteriormente
+77.33-1-00;Aluguel de máquinas e equipamentos para escritório
+79.11-2-00;Agências de viagens
+79.12-1-00;Operadores turísticos
+80.11-1-02;Serviços de adestramento de cães de guarda
+80.20-0-01;Atividades de monitoramento de sistemas de segurança eletrônico
+80.30-7-00;Atividades de investigação particular
+82.11-3-00;Serviços combinados de escritório e apoio administrativo
+82.19-9-01;Fotocópias
+82.19-9-99;Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente
+82.20-2-00;Atividades de teleatendimento
+82.30-0-01;Serviços de organização de feiras, congressos, exposições e festas
+82.91-1-00;Atividades de cobrança e informações cadastrais
+82.92-0-00;Envasamento e empacotamento sob contrato
+82.99-7-03;Serviços de gravação de carimbos, exceto confecção
+82.99-7-07;Salas de acesso à internet
+85.91-1-00;Ensino de esportes
+85.92-9-01;Ensino de dança
+85.92-9-02;Ensino de artes cênicas, exceto dança
+85.92-9-03;Ensino de música
+85.92-9-99;Ensino de arte e cultura não especificado anteriormente
+85.93-7-00;Ensino de idiomas
+85.99-6-03;Treinamento em informática
+85.99-6-04;Treinamento em desenvolvimento profissional e gerencial
+85.99-6-05;Cursos preparatórios para concursos
+86.50-0-02;Atividades de profissionais da nutrição
+86.50-0-03;Atividades de psicologia e psicanálise
+86.50-0-04;Atividades de fisioterapia
+86.50-0-05;Atividades de terapia ocupacional
+86.50-0-06;Atividades de fonoaudiologia
+86.60-7-00;Atividades de apoio à gestão de saúde
+90.01-9-01;Produção teatral
+90.01-9-02;Produção musical
+90.01-9-03;Produção de espetáculos de dança
+90.01-9-04;Produção de espetáculos circenses, de marionetes e Similares
+90.02-7-01;Atividades de artistas plásticos, jornalistas independentes e escritores
+90.02-7-02;Restauração de obras de arte
+91.02-3-02;Restauração e conservação de lugares e prédios históricos
+93.19-1-01;Produção e promoção de eventos esportivos
+93.29-8-03;Exploração de jogos de sinuca, bilhar e Similares
+93.29-8-04;Exploração de jogos eletrônicos recreativos
+94.30-8-00;Atividades de associações de defesa de direitos sociais
+94.93-6-00;Atividades de organizações associativas ligadas à cultura e à arte
+95.11-8-00;Reparação e manutenção de computadores e de equipamentos periféricos
+95.12-6-00;Reparação e manutenção de equipamentos de comunicação
+95.21-5-00;Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico
+95.29-1-01;Reparação de calçados, bolsas e artigos de viagem
+95.29-1-02;Chaveiros
+95.29-1-03;Reparação de relógios
+95.29-1-04;Reparação de bicicletas, triciclos e outros veículos Não-motorizados
+95.29-1-05;Reparação de artigos do mobiliário
+95.29-1-06;Reparação de joias
+95.29-1-99;Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente
+96.02-5-01;Cabeleireiros, manicure e pedicure
+96.09-2-02;Agências matrimoniais
